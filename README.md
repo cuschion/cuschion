@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**cuschion/cuschion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+developer_info = {
+    "name": "Sarvar",
+    "occupation": "Flutter Developer",    
+    "current_learning": ["Swift", "Machine Learning"],
+    "interests": [
+        "Cloud (GCP, AWS, Azure)",
+        "Docker",
+        "Cybersecurity",
+        "AI Tools",
+        "Telegram Bots",
+    ],
+    "tech_stack": {
+        "languages": ["Java Script", "Dart", "Python", "Java", "Go"],
+        "frameworks": ["Flutter", "Django", "ReactJS"],
+        "databases": ["PostgreSQL", "MongoDB", "Supabase", "Firebase"],
+        "devops": ["Docker", "GCP","AWS", "Linux"],
+        "vcs": ["Git", "GitHub"]
+    }
+}
+```
